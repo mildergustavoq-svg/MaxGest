@@ -89,7 +89,7 @@ python Inicio/comenzar.py
 
 ---
 
-##  Autores
+## 👥 Autores
 
 El presente proyecto fue desarrollado por el equipo integrado por:
 
@@ -97,5 +97,6 @@ El presente proyecto fue desarrollado por el equipo integrado por:
 * 👤 **Milder Gustavo Quispe Ticona**
 * 👤 **Miguel Rivera Cárdenas**
 * 👤 **Mathías Minchola Alcarraz**
+
 
   
