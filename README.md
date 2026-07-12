@@ -8,7 +8,7 @@ Este proyecto ha sido desarrollado como trabajo final para la carrera de **Dise�
 
 ---
 
-## 📝 Descripción del Proyecto
+## 📝Descripción del Proyecto
 
 **MaxGest** es una aplicación de escritorio desarrollada en Python, diseñada específicamente para ayudar a pequeños emprendedores a administrar sus negocios de forma óptima. 
 
@@ -16,7 +16,7 @@ Muchos negocios locales pierden dinero al no saber con precisión qué mercancí
 
 ---
 
-## ✨ Funcionalidades Principales
+## Funcionalidades Principales
 
 Como asistente de gestión básico, **MaxGest** es capaz de cumplir con las siguientes funciones:
 
@@ -64,7 +64,7 @@ MaxGest/
 
 ---
 
-## 🚀 Instrucciones de Instalación y Ejecución
+##  Instrucciones de Instalación y Ejecución
 
 ### Prerrequisitos
 Asegúrate de tener instalado Python en tu sistema (versión 3.8 o superior recomendada).
@@ -89,12 +89,12 @@ python Inicio/comenzar.py
 
 ---
 
-## 👥 Autores
+##  Autores
 
 El presente proyecto fue desarrollado por el equipo integrado por:
 
-* 👤 **Ayrton Adrian Matamoros Arteaga**
+* 👤 **Ayrton Adrián Matamoros Arteaga**
 * 👤 **Milder Gustavo Quispe Ticona**
-* 👤 **Rivera Cardenas, Miguel**
-* 👤 **Minchola Alcarraz, Mathias**
+* 👤 **Miguel Rivera Cárdenas**
+* 👤 **Mathías Minchola Alcarraz**
   
