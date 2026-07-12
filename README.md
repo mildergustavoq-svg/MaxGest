@@ -93,8 +93,8 @@ python Inicio/comenzar.py
 
 El presente proyecto fue desarrollado por el equipo integrado por:
 
-* 👤 **Ayrton Adrián Matamoros Arteaga**
-* 👤 **Milder Gustavo Quispe Ticona**
-* 👤 **Miguel Rivera Cárdenas**
-* 👤 **Mathías Minchola Alcarraz**
+* 👤 *Ayrton Adrián Matamoros Arteaga*
+* 👤 *Milder Gustavo Quispe Ticona*
+* 👤 *Miguel Rivera Cárdenas*
+* 👤 *Mathías Minchola Alcarraz*
   
