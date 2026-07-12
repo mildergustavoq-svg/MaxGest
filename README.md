@@ -2,7 +2,7 @@ Carrera: DISEÑO Y DESARROLLO DE SOTFWARE
 
 Seccion:  C24S-A
 
-Ciclo. I
+Ciclo. 1
 
 
 Titulo del Proyecto:
